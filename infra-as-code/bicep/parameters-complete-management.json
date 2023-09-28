@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "parPolicyPseudoRootMgmtGroup": {
-            "value": "alz"
+            "value": "107910bd-d293-40f2-9260-56b8ae1efaf7"
         },
         "parPolicyAssignmentParameters": {
             "value": {
@@ -16,7 +16,7 @@
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "westeurope"
                 }
             }
         },
